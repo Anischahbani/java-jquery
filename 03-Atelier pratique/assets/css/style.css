@@ -1,0 +1,71 @@
+body{
+    background: black;
+    }
+.navbar{
+    margin-bottom: 0px;
+    text-align: center;
+}
+.navbar-apple {
+    background-color: #1E1E1E;
+    
+}
+
+.navbar-apple ul {
+    text-align: center;
+}
+.navbar-apple ul li {
+    margin-right: 15px;
+}
+.navbar-apple ul li a {
+    font-weight: 300;
+}
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    margin:0 auto;
+    text-align: center;
+}
+#telephone{
+    background: #131313; 
+}
+#telephone ul {
+    margin: 0;
+    text-align: center;
+    padding: 10px 0;
+}
+#piciphone7{
+   text-align: center;
+   background: black;
+   
+}
+#piciphone7 h2 {
+    color:white;
+}
+#piciphone7 h3 {
+    color:white;
+}
+#piciphone7 p {
+    color:white;
+}
+
+#contact{
+    background: black;
+
+}
+#contact h3{
+color:white;
+text-align: center;
+}
+#contact button{
+
+}
+footer{
+    background:rgb(41, 40, 40);
+}
+footer p {
+        margin: 0;
+        text-align: center;
+        color:white;
+        font-size:12px;
+    }
